@@ -1,1 +1,1 @@
-#### Material e Projetos 2º Ano LCC 22/23
+#### Material e Projetos do 2º Ano de LCC 22/23
