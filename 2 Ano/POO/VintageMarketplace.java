@@ -1,3 +1,9 @@
+/*
+ * PROJETO POO
+ * VINTED
+ * PAULO FREITAS | ANA SILVA | MIGUEL FREITAS
+ */
+
 package Projeto;
 
 import Projeto.View.Menu;
