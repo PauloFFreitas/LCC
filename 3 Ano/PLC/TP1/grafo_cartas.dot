@@ -1,0 +1,97 @@
+digraph G {
+    "MALAC";
+    "PARISIANI";
+    "CALAÇA";
+    "BARROS";
+    "MAIORCA";
+    "GAMA" -> "GAMA" [color="0.002 0.999 0.999"];
+    "BARRETO" -> "OVIEDO" [color="0.002 0.999 0.999"];
+    "MENESES" -> "SILVA" [color="0.002 0.999 0.999"];
+    "SILVA" -> "GABRIEL" [color="0.002 0.999 0.999"];
+    "CARDOSO" -> "LOPES" [color="0.002 0.999 0.999"];
+    "VEIGA" -> "MENESES" [color="0.002 0.999 0.999"];
+    "GABRIEL" -> "SILVA" [color="0.002 0.999 0.999"];
+    "SOARES" -> "VEIGA" [color="0.002 0.999 0.999"];
+    "AZEVEDO" -> "VEIGA" [color="0.002 0.999 0.999"];
+    "PAIS" -> "BAPTISTA" [color="0.002 0.999 0.999"];
+    "MONSERRATE" -> "PAIS" [color="0.002 0.999 0.999"];
+    "AZEVEDO" -> "FERNANDES" [color="0.002 0.999 0.999"];
+    "AZEVEDO" -> "VIEIRA" [color="0.002 0.999 0.999"];
+    "AZEVEDO" -> "VIEIRA" [color="0.002 0.999 0.999"];
+    "AZEVEDO" -> "VIEIRA" [color="0.002 0.999 0.999"];
+    "AZEVEDO" -> "VIEIRA" [color="0.002 0.999 0.999"];
+    "VIEIRA" -> "AZEVEDO" [color="0.002 0.999 0.999"];
+    "AZEVEDO" -> "FERNANDES" [color="0.002 0.999 0.999"];
+    "AZEVEDO" -> "MEDEIROS" [color="0.002 0.999 0.999"];
+    "FERNANDES" -> "ROMANO" [color="0.002 0.999 0.999"];
+    "AZEVEDO" -> "MEDEIROS" [color="0.002 0.999 0.999"];
+    "MATOS" -> "BRUNO" [color="0.002 0.999 0.999"];
+    "MATOS" -> "PAIS" [color="0.002 0.999 0.999"];
+    "ALMEIDA" -> "VITELLEQUI" [color="0.002 0.999 0.999"];
+    "PAIS" -> "SAGUED" [color="0.002 0.999 0.999"];
+    "PAIS" -> "VERGARA" [color="0.002 0.999 0.999"];
+    "SAGUED" -> "SUCCINEOS" [color="0.002 0.999 0.999"];
+    "MENDES" -> "PALMEIRA" [color="0.002 0.999 0.999"];
+    "MENDES" -> "VITELLEQUI" [color="0.002 0.999 0.999"];
+    "ALMADA" -> "RAS" [color="0.002 0.999 0.999"];
+    "BARRADAS" -> "PAIS" [color="0.002 0.999 0.999"];
+    "MENDES" -> "ZASELASSÊ" [color="0.002 0.999 0.999"];
+    "MENDES" -> "FILIPE III" [color="0.002 0.999 0.999"];
+    "MIRANDA" -> "MENDES" [color="0.002 0.999 0.999"];
+    "SAGUED" -> "MENDES" [color="0.002 0.999 0.999"];
+    "SAGUED" -> "DIOGO" [color="0.002 0.999 0.999"];
+    "MENDES" -> "TAVARES" [color="0.002 0.999 0.999"];
+    "RODRIGUES" -> "PAIS" [color="0.002 0.999 0.999"];
+    "MATOS" -> "LAMEIRA" [color="0.002 0.999 0.999"];
+    "CERDEIRA" -> "BRUNI" [color="0.002 0.999 0.999"];
+    "MENDES" -> "CERDEIRA" [color="0.002 0.999 0.999"];
+    "GAMA" -> "OANGEL" [color="0.649 0.701 0.701"];
+    "MENESES" -> "OVIEDO" [color="0.649 0.701 0.701"];
+    "SILVA" -> "OVIEDO" [color="0.649 0.701 0.701"];
+    "CARDOSO" -> "FERNANDES" [color="0.649 0.701 0.701"];
+    "CARDOSO" -> "BALDAMES" [color="0.649 0.701 0.701"];
+    "CARDOSO" -> "MARONITA" [color="0.649 0.701 0.701"];
+    "VEIGA" -> "SILVA" [color="0.649 0.701 0.701"];
+    "VEIGA" -> "OVIEDO" [color="0.649 0.701 0.701"];
+    "GABRIEL" -> "OVIEDO" [color="0.649 0.701 0.701"];
+    "SOARES" -> "AZEVEDO" [color="0.649 0.701 0.701"];
+    "AZEVEDO" -> "FERNANDES" [color="0.649 0.701 0.701"];
+    "AZEVEDO" -> "PAIS" [color="0.649 0.701 0.701"];
+    "VIEIRA" -> "ROMANO" [color="0.649 0.701 0.701"];
+    "VIEIRA" -> "ANTÓNIO" [color="0.649 0.701 0.701"];
+    "VIEIRA" -> "CERQUEIRA" [color="0.649 0.701 0.701"];
+    "VIEIRA" -> "VEIGA" [color="0.649 0.701 0.701"];
+    "VIEIRA" -> "FERNANDES" [color="0.649 0.701 0.701"];
+    "FERNANDES" -> "PAIS" [color="0.649 0.701 0.701"];
+    "AZEVEDO" -> "PAIS" [color="0.649 0.701 0.701"];
+    "MATOS" -> "FERNANDES" [color="0.649 0.701 0.701"];
+    "MATOS" -> "AZEVEDO" [color="0.649 0.701 0.701"];
+    "ALMEIDA" -> "AZEVEDO" [color="0.649 0.701 0.701"];
+    "ALMEIDA" -> "BRUNO" [color="0.649 0.701 0.701"];
+    "ALMEIDA" -> "CRISTOS" [color="0.649 0.701 0.701"];
+    "PAIS" -> "SAGUED" [color="0.649 0.701 0.701"];
+    "MENDES" -> "VITELLEQUI" [color="0.649 0.701 0.701"];
+    "BARRADAS" -> "FRANCISCO" [color="0.649 0.701 0.701"];
+    "MENDES" -> "EMANÔ" [color="0.649 0.701 0.701"];
+    "MENDES" -> "CRISTOS" [color="0.649 0.701 0.701"];
+    "MENDES" -> "SAGUED" [color="0.649 0.701 0.701"];
+    "MENDES" -> "CRISTOS" [color="0.649 0.701 0.701"];
+    "MIRANDA" -> "SAGUED" [color="0.649 0.701 0.701"];
+    "MENDES" -> "MATOS" [color="0.649 0.701 0.701"];
+    "MENDES" -> "FERNANDES" [color="0.649 0.701 0.701"];
+    "RODRIGUES" -> "PEREIRA" [color="0.649 0.701 0.701"];
+    "MENDES" -> "SANTA CRUZ" [color="0.649 0.701 0.701"];
+    subgraph cluster_01 {
+        label = "Legenda";
+        node [shape=point]
+            {
+                rank=same
+                d0 [style = invis];
+                d1 [style = invis];
+                p0 [style = invis];
+                p1 [style = invis];
+            }
+        d0 -> d1 [label=Enviou color="0.002 0.999 0.999"]
+        p0 -> p1 [label=Mencionou color="0.649 0.701 0.701"]
+    }
+}
