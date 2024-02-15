@@ -1,0 +1,13 @@
+INT a = 7
+INT b = 4
+INT result = 0
+INT i = 1
+WHILE (i <= 5) {
+    result = ((a * i) + (b * 2)) / (i + 1)
+    IF (result == 15/2){
+        WRITE(result)
+    } ELSE{
+        WRITE(i)
+    }
+        i = i + 1
+}

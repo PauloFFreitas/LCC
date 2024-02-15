@@ -1,0 +1,10 @@
+INT i = 0
+INT b [ 10 ]
+INT a [ 3 ] [ 3 ]
+a [ 2 ] [ 2 ] = 3
+WRITE (a [ 2 ] [ 2 ])
+WHILE (i < 10){
+    b[ i ] = i
+    i = i+1
+    }
+WRITE ( b [ 10 ] )

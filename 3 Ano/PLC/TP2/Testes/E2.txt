@@ -1,0 +1,13 @@
+INT a
+INT b
+INT c
+READ a
+READ b
+READ c
+IF (((a == 0) OR (b == 0) OR (c == 0)) OR ((a + b <= c) OR (a + c <= b) OR (b + c <= a)))
+{
+        WRITE (a)
+} ELSE{
+    a=a+1
+    WRITE(a)
+}

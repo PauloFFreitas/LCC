@@ -1,0 +1,14 @@
+INT a = 10
+INT resultado
+INT x
+INT y
+INT z
+INT w
+READ x
+READ y
+READ z
+READ w
+resultado = ((a * a * a * x) + (a * a * y) + (a * z))
+WRITE (resultado)
+resultado = (a * w) - (y / z) % 2
+WRITE (resultado)
