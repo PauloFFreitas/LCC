@@ -1,3 +1,1 @@
-#### Fichas de trabalho e Projeto
-
-(linux)
+#### Projeto (linux)
