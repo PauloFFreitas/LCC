@@ -1,0 +1,15 @@
+Idade: 16-26
+Sexo: F, M
+Nacionalidade: PT, BR, JP
+Area de Trabalho: Informatica 32, Computacao 10
+Estudos Preferencial: Engenharia Informatica
+Estudos Relativos: Ciencias Computacao
+Habilidades Preferencial: Cplusplus 5
+Habilidades Relativas: SQL 3
+Regime de Trabalho: Todos
+Qualidades Preferenciais: Trabalho em equipa
+Qualidades Relativas: Pontual
+Carta de Conducao_Preferencial: Ligeiros
+Carta de Conducao_Relativas: Pesados
+Localidade Preferencial: Braga
+Localidade Relativa: Porto

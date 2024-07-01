@@ -1,0 +1,13 @@
+Nome:
+Idade:
+Sexo:
+Nacionalidade:
+Experiencia Proficional:
+Estudos:
+Hablilidades:
+Preferencias de trabalho:
+Qualidades interpessoais:
+Carta de Conduçao:
+Email:
+Telemovel:
+Endereço:
