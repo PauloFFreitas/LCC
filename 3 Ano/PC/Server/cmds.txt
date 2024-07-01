@@ -1,0 +1,7 @@
+cd("C:/Users/paulo/OneDrive/Ambiente de Trabalho/PC/Projeto/Servidor/My version").
+
+c(game).
+c(astronaut).
+c(planet).
+
+game:start().

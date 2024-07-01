@@ -1,0 +1,14 @@
+{"aaa", {"aa",false,0,2,1}}.
+{"andre", {"123",false,1,0,3}}.
+{"bbb", {"bb",false,0,0,1}}.
+{"c", {"c12",false,0,0,1}}.
+{"ccc", {"cc",false,0,0,2}}.
+{"fff", {"ff",false,0,3,1}}.
+{"jailson", {"123",false,99,0,100}}.
+{"joilson", {"123",false,50,0,99}}.
+{"juilson", {"123",false,0,0,1}}.
+{"miguel", {"123",false,3,0,3}}.
+{"paulo", {"123",false,0,7,1}}.
+{"wells", {"123",false,2,0,3}}.
+{"weslley", {"123",false,0,1,1}}.
+{"www", {"ww",false,1,0,3}}.
