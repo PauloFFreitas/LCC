@@ -1,1 +1,1 @@
-Projetos de Processamento de Linguagens de Compiladores (Python + Ply)
+Processamento de Linguagens de Compiladores (Python + Ply) - Interpretador de Conteudo de Cartas & 
