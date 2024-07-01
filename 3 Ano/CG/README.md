@@ -1,1 +1,1 @@
-Computação Gráfica (C++)- Simulador do Sistema Solar
+Computação Gráfica (C++) - Simulador do Sistema Solar
