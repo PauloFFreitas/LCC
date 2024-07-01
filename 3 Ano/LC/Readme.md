@@ -1,1 +1,1 @@
-Trabalhos de Logica Computacional (Python + z3)
+Lógica Computacional (Python + z3) - Trabalhos
