@@ -1,1 +1,1 @@
-Projeto de Bases de Dados (SQL)
+Bases de Dados (SQL) - Gerenciador de Eventos de Cidade
